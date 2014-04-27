@@ -1,0 +1,7 @@
+// CREDITZ!
+
+Hazard Team:
+- Dunkelheit- und Lasersystem, div. Effekte
+
+OpenClonk Team:
+- Randrian: Seilphysik
